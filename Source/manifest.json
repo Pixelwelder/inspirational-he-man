@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
 
-    "name": "Inspire365",
+    "name": "Inspirational He-Man",
     "version": "1.0",
-    "description": "A quote for every new tab.",
+    "description": "He-Man and Skeletor offer you a random inspirational quote for every new tab.",
     "chrome_url_overrides" : {
         "newtab": "inspire365.html"
     }
