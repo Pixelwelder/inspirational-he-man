@@ -35,21 +35,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="inspire365.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="inspire365.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Source/inspire365.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.079605766" vertical-offset="0" max-vertical-offset="1319">
+                <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="330">
                   <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="inspire365.css" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="inspire365.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Source/inspire365.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-                  <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+                <state vertical-scroll-proportion="0.30156365" vertical-offset="0" max-vertical-offset="1343">
+                  <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
                   <folding />
                 </state>
               </provider>
@@ -69,7 +69,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="inspire365.js" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="inspire365.js" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Source/inspire365.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.0446761" vertical-offset="0" max-vertical-offset="1343">
@@ -104,11 +104,11 @@
         <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/Source/inspire365-newtab.html" />
         <option value="$USER_HOME$/Downloads/magic8ball/newTab.html" />
-        <option value="$PROJECT_DIR$/Source/inspire365.css" />
         <option value="$PROJECT_DIR$/Source/manifest.json" />
         <option value="$PROJECT_DIR$/Source/quotes.json" />
         <option value="$PROJECT_DIR$/Source/inspire365.html" />
         <option value="$PROJECT_DIR$/Source/inspire365.js" />
+        <option value="$PROJECT_DIR$/Source/inspire365.css" />
       </list>
     </option>
   </component>
@@ -314,14 +314,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Source/inspire365.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
@@ -340,7 +332,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/inspire365.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.079605766" vertical-offset="0" max-vertical-offset="1319">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="330">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding />
         </state>
@@ -350,6 +342,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0446761" vertical-offset="0" max-vertical-offset="1343">
           <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/inspire365.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30156365" vertical-offset="0" max-vertical-offset="1343">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding />
         </state>
       </provider>
