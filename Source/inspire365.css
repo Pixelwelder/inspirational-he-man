@@ -1,0 +1,26 @@
+body {
+    background: #181c1b url("background-large.jpg") top left no-repeat;
+    background-size: cover;
+}
+
+/*@media (min-width: 1281px) {*/
+    /*body {*/
+        /*background: #181c1b url("background-xlarge.jpg") top left no-repeat;*/
+    /*}*/
+/*}*/
+
+.quote-container {
+    max-width: 25vw;
+    position: absolute;
+    top: 40%;
+    left: 2vw;
+}
+
+#quote, #author {
+    color: #eaedfc;
+}
+
+#quote {
+    font-size: 2vw;
+}
+
