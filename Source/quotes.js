@@ -262,7 +262,7 @@ var quotes = {
             "author": "Washington Irving"
         },
         {
-            "quote": "Our greatest glory consist not in never falling, but in rising every time we fall.",
+            "quote": "Our greatest glory consists not in never falling, but in rising every time we fall.",
             "author": "Oliver Goldsmith"
         },
         {
